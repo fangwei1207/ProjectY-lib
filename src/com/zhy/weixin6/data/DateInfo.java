@@ -1,5 +1,9 @@
 package com.zhy.weixin6.data;
-
+/**
+ * 时间信息类
+ * @author fangwei
+ *
+ */
 public class DateInfo {
 	private int date;
 	private boolean isThisMonth;
