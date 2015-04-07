@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:orientation="vertical"
+    android:background="#ffffff" xmlns:app="http://schemas.android.com/apk/res/com.zhy.weixin6.ui">
+
+  <com.zhy.weixin6.widget.MonthView
+    android:id="@+id/monthView1"
+    android:padding="20dp"
+    android:background="@color/white"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+</com.zhy.weixin6.widget.MonthView>
+
+	
+</LinearLayout>

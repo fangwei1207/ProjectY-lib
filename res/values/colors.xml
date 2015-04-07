@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#333333</color>
+    <color name="gray_hint">#999999</color>
+    <color name="activity_background">#f9f9f9</color>
+    <color name="gray_four">#D6D6D6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red_orange_border">#FF8502</color>
+    <color name="red_orange_normal">#FF7E00</color>
+    <color name="red_orange_active">#FF6C00</color>
+    <color name="gray_disabled">#D7D7D7</color>
+    <color name="traffic_status_c">#00B822</color>
+    <color name="traffic_status_b">#FF9632</color>
+    <color name="traffic_status_a">#EA0000</color>
+    <color name="textColor">#333</color>
+
+    <!-- 车旺车机 -->
+    <color name="carloc_title_bg">#ff9000</color>
+    <color name="carloc_all_layout_bg">#F4F5F7</color>
+    <color name="carloc_service_introduce_text_color">#ff8502</color>
+
+    <!-- 地图轨迹 -->
+    <!-- 行驶轨迹颜色 -->
+
+    <color name="carloc_rount_drive">#2294ff</color>
+    <color name="carloc_rount_alarm">#ff5122</color>
+
+    <!--  -->
+    <color name="carloc_cutline_content">#d7d7d7</color>
+
+    <!-- 统计图表 -->
+    <!-- 正常 -->
+    <color name="carloc_chartline_normal">#92d0c9</color>
+    <!-- 限速标准 -->
+    <color name="carloc_chartline_limit">#ff5122</color>
+    <!-- 超速 -->
+    <color name="carloc_chartline_over">#ff5122</color>
+    <!-- 分割线 -->
+    <color name="carloc_chartline_cutline">#ededed</color>
+
+    <!-- 气泡或地图信息面板 -->
+    <color name="carloc_dialog_red">#e53e41</color>
+    <color name="carloc_dialog_black">#333333</color>
+
+    <!-- 灰色 -->
+    <color name="carloc_gray">#999999</color>
+    <!-- 红色 -->
+    <color name="carloc_red">#ff5122</color>
+    <!-- 黑色 -->
+    <color name="carloc_black">#333333</color>
+    <!-- 绿色 -->
+    <color name="carloc_green">#34cf15</color>
+
+    <!-- 扁平风格时间选择器颜色 -->
+    <color name="orange">#ff8a01</color>
+    <color name="deep_gray">#666666</color>
+    <color name="light_gray">#b3b3b3</color>
+    <color name="dark_orange">#c87000</color>
+    <color name="translucent_80_dark">#cc000000</color>
+    <color name="light_s_gray">#cccccc</color>
+    <color name="deep_s_gray">#454545</color>
+    <color name="deep_ss_gray">#333333</color>
+    <color name="split_line_gray">#B8B8B8</color>
+    <color name="picker_bar_bg">#F5F5F5</color>
+
+    <!-- 车旺车机 -->
+    <color name="carloc_color_red">#ff5122</color>
+    <color name="carloc_color_green">#34cf15</color>
+    <color name="carloc_color_black">#333333</color>
+    <color name="carloc_color_gray">#999999</color>
+    <color name="carloc_color_orange">#ff9000</color>
+    <color name="carloc_color_blue">#0093e7</color>
+
+</resources>
