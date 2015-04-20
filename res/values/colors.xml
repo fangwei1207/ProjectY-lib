@@ -72,4 +72,9 @@
     <color name="carloc_color_orange">#ff9000</color>
     <color name="carloc_color_blue">#0093e7</color>
 
+    <color name="focus_circle_bg">#F24949</color>
+    <color name="date_1">#F24949</color>
+    <color name="date_2">#40000000</color>
+    
+    
 </resources>
